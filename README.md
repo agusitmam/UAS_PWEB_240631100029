@@ -13,9 +13,9 @@ Repositori ini berisi aplikasi web sederhana untuk mengelola koleksi buku pribad
 *(Tambahkan file gambar screenshot Anda ke dalam folder repositori, lalu tautkan di sini)*
 
 1. **Menu Beranda**: 
-   ![Screenshot Beranda]()
+   ![Screenshot Beranda](img/Beranda.png)
 2. **Menu Kelola Buku**: 
-   ![Screenshot Kelola]()
+   ![Screenshot Kelola](img/Kelola.png)
 
 ## Struktur Database
 Aplikasi ini menggunakan database bernama `db_buku` dengan tabel `buku` yang memiliki struktur sebagai berikut:
