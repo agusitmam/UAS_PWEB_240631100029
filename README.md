@@ -10,7 +10,6 @@ Repositori ini berisi aplikasi web sederhana untuk mengelola koleksi buku pribad
 **My Litle Library** adalah platform *web-based* yang dirancang untuk membantu pengguna mengelola daftar buku. Aplikasi ini dilengkapi dengan fitur CRUD (*Create, Read, Update, Delete*) serta sistem manajemen status baca (*Belum dibaca*, *Sedang dibaca*, *Selesai dibaca*) yang dapat diubah secara *inline* agar memudahkan pengguna melacak progres membaca mereka.
 
 ## Screenshot Aplikasi
-*(Tambahkan file gambar screenshot Anda ke dalam folder repositori, lalu tautkan di sini)*
 
 1. **Menu Beranda**: 
    ![Screenshot Beranda](img/Beranda.png)
